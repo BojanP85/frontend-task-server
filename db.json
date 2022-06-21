@@ -1,0 +1,260 @@
+{
+  "users": [
+    {
+      "id": "Ptgb07ypKXFy2gml9Ki8h",
+      "email": "user1@test.com",
+      "password": "user1",
+      "name": "Petar",
+      "surname": "Petrovic"
+    },
+    {
+      "id": "iUgt65KLd84uiYWkld69t",
+      "email": "user2@test.com",
+      "password": "user2",
+      "name": "Jelena",
+      "surname": "Nikolic"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Naughty Dog",
+      "email": "naughty.dog@mail.com",
+      "createdBy": "Andy Gavin",
+      "updatedBy": "Jason Rubim",
+      "date": "1984-09-27T08:05:19.000Z"
+    },
+    {
+      "id": "11",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "12",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "13",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "14",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "15",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "16",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "17",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "18",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "19",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "20",
+      "name": "Santa Monica Studio",
+      "email": "sms@mail.com",
+      "createdBy": "Allan Becker",
+      "updatedBy": "Allan Becker",
+      "date": "1999-01-16T08:05:19.000Z"
+    },
+    {
+      "id": "21",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "22",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "23",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "24",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "25",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "26",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "27",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "28",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "29",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    },
+    {
+      "id": "30",
+      "name": "Sucker Punch Prod.",
+      "email": "spd@mail.com",
+      "createdBy": "Brian Fleming",
+      "updatedBy": "Bruce Oberg",
+      "date": "1997-10-04T08:05:19.000Z"
+    }
+  ]
+}
